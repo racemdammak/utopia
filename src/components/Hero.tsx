@@ -38,13 +38,6 @@ const Hero = () => {
               >
                 Join the Movement
               </Button>
-              <Button 
-                variant="outline" 
-                size="lg" 
-                className="border-2 border-brand-accent/40 text-brand-dark hover:bg-gradient-to-r hover:from-brand-accent/10 hover:to-brand-warm/10 backdrop-blur-sm px-8 py-4 text-lg font-medium rounded-2xl transition-all duration-300 hover:-translate-y-1"
-              >
-                Get Early Access
-              </Button>
             </div>
           </div>
           
