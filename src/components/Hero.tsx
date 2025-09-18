@@ -36,7 +36,7 @@ const Hero = () => {
                 size="lg" 
                 className="bg-gradient-to-r from-brand-accent to-brand-warm hover:from-brand-accent/90 hover:to-brand-warm/90 text-white shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-1 px-8 py-4 text-lg font-medium rounded-2xl"
               >
-                Join the Movement
+                Join the Development Team
               </Button>
             </div>
           </div>
