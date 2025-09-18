@@ -20,7 +20,7 @@ const Hero = () => {
                 <span className="bg-gradient-to-r from-brand-accent to-brand-warm bg-clip-text text-transparent font-semibold text-sm">✨ Launching Soon</span>
               </div>
               <h1 className="text-6xl lg:text-8xl font-bold text-brand-dark mb-6 leading-tight tracking-tight">
-                EquiHire
+                UtopiaHire
               </h1>
               <p className="text-2xl lg:text-3xl text-brand-text font-light tracking-wide">
                 Inclusive Careers. Fair Opportunities.

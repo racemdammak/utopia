@@ -6,11 +6,11 @@ const About = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl lg:text-5xl font-bold text-foreground mb-8">
-            About EquiHire
+            About UtopiaHire
           </h2>
           
           <p className="text-xl text-muted-foreground mb-12 leading-relaxed max-w-3xl mx-auto">
-            We believe that talent should define opportunity, not bias. EquiHire harnesses the power of ethical AI 
+            We believe that talent should define opportunity, not bias. UtopiaHire harnesses the power of ethical AI 
             to create a more inclusive hiring landscape across MENA and Sub-Saharan Africa, ensuring every 
             individual has access to fair career opportunities.
           </p>

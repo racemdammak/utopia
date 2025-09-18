@@ -5,17 +5,17 @@ const Team = () => {
     {
       name: "Racem Dammak",
       description: "3rd year Computer Science student",
-      avatar: "public/racem.png"
+      avatar: "/racem.png"
     },
     {
       name: "Yassmine Feki",
       description: "1st year Data Engineering student",
-      avatar: "public/yassmine.jpg"
+      avatar: "/yassmine.jpg"
     },
     {
       name: "Aymen Kamel",
       description: "3rd year Computer Science student",
-      avatar: "public/aymen.png"
+      avatar: "/aymen.png"
     }
   ];
 
@@ -24,7 +24,7 @@ const Team = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl lg:text-5xl font-bold text-foreground mb-8">
-            The Team Behind EquiHire
+            The Team Behind UtopiaHire
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             A diverse team of technologists, ethicists, and career experts united by a shared vision of inclusive hiring.
